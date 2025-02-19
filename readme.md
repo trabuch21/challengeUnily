@@ -2,6 +2,12 @@ Playwright Automation Challenge
 
 📌 Overview
 
+🔹 Technologies Used
+	•	Playwright → Test Automation framework
+	•	TypeScript → Programming Language
+	•	Allure Reports → Generates detailed test execution reports
+	•	Node.js
+
 📂 Project Structure
 
 /automation-challenge
