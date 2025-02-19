@@ -1,0 +1,18 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "posttest": "allure generate allure-results --clean && allure open allure-report",
+    "generate-report": "allure generate allure-results --clean && allure open allure-report",
+    "open-report": "allure open allure-report"
+  },
+  "author": "Lucas Trabuchi",
+  "description": "Unily - Test Automation Challenge",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.4",
+    "allure-playwright": "^3.2.0"
+  }
+}
