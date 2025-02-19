@@ -21,7 +21,7 @@ Additionally, **Allure Reporting** is integrated for **test reporting & analysis
 ---
 
 ## 📂 Project Structure
-
+```
 /automation-challenge
 │── /pageObjects
 │   │── home_page.ts
@@ -37,9 +37,7 @@ Additionally, **Allure Reporting** is integrated for **test reporting & analysis
 │── package.json
 │── playwright.config.ts
 │── README.md
-
-
----
+```
 
 ## 📜 Implemented Features
 ### ✅ Page Object Model (POM)
